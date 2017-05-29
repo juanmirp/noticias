@@ -3,21 +3,21 @@
 		"primeraNoticia": {
 			"titulo": "Diez canciones para recordar a Chris Cornell",
 			"descripcion": "La causa de la muerte del cantante fue 'suicidio por ahorcamiento', según confirmó este jueves la vocera de la oficina del forense, Lisa Coff.",
-			"imagenGrande": "14951009255801_0.jpg",
+			"imagenGrande": "img/14951009255801_0.jpg",
 			"data": "24/05/2017  15:54"
 		},
 		
 		"segonaNoticia": {
 			"titulo": "Bob Dylan cumple 76 años: el Premio Nobel de Literatura en 5 canciones",
 			"descripcion": "Carles Mesquida Morro",
-			"imagenGrande": "bobdilan.jpg",
+			"imagenGrande": "img/bobdilan.jpg",
 			"data": "26/05/2017  18:35"
 		},
 		
 		"terceraNoticia": {
 			"titulo": "¿Sobrevivirá el cine con la llegada de Netflix?",
 			"descripcion": "La irrupción de las plataformas de vídeo bajo demanda en Cannes ilustra el debate generado en torno a la última crisis tecnológica que vive este sector",
-			"imagenGrande": "recorte.jpg",
+			"imagenGrande": "img/recorte.jpg",
 			"data": "27/05/2017 12:30"
 		}
 
