@@ -5,3 +5,7 @@ Página web de noticias que se actualiza al hacer scroll o pulsar el botón de c
 RawGit:
 https://rawgit.com/juanmirp/noticias/master/index.html
 
+#Boceto de la página en el desktop y en el móvil
+
+![boceto](https://rawgit.com/juanmirp/noticias/master/doc/IMG_20170606_182711.jpg)
+![boceto](https://rawgit.com/juanmirp/noticias/master/doc/IMG_20170606_182721.jpg)
