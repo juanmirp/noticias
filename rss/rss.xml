@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <noticias>
+        <title>Noticias Musicales</title>
+        <link>https://rawgit.com/juanmirp/noticias/master/index.html</link>
+        <description>este es mi projecto sobre noticias </description>
+        
+        <noticia>
+            <title>La música hace frente a los atentados en Reino Unido</title>
+            <link>https://rawgit.com/juanmirp/noticias/master/new1.html</link>
+            <body>Ariana Grande y Miley Cyrus cantan este domingo como parte del multitudinario concierto benéfico para las víctimas del atentado de Mánchester.</body>
+            <date>15/05/2017 15:10</date>
+        </noticia>
+        <noticia>
+            <title>Linkin Park lanza Heavy: así suena su nuevo single</title>
+            <link>https://rawgit.com/juanmirp/noticias/master/news2.html</link>
+            <body>La mítica banda de USA publica la primera canción de su nuevo disco, tras 2 años y medio.</body>
+            <date>12/05/2017 12:20</date>
+        </noticia>
+        <noticia>
+            <title>Las mejores canciones de la historia</title>
+            <link>https://rawgit.com/juanmirp/noticias/master/index.html#</link>
+            <body>¿Cuál fue la primera de las mejores canciones de la historia? Se dice que el mismísimo Thomas Alba Edison fue el primero en grabar una canción. “Mary Had a Little Lamb” es el nombre de la tonada elegida por el destacado inventor para probar su famoso fonógrafo, en el año 1877.
+   A lo largo del siglo XX, se terminó de desarrollar la tecnología que permitió grabar las canciones con las que nuestros antepasados han bailado, reído y hasta llorado.</body>
+            <date>18/05/2017 9:10</date>
+        </noticia>
+    </noticias>
+</rss>
