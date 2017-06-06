@@ -7,11 +7,12 @@ https://rawgit.com/juanmirp/noticias/master/index.html
 
 # Esbós de la pàgina en el desktop 
 
-![esbós](https://rawgit.com/juanmirp/noticias/master/doc/IMG_20170606_182711.jpg)
+![esbós](https://rawgit.com/juanmirp/noticias/master/doc/IMG_20170606_182721.jpg)
+
 
 # Esbós de la pàgina en el mòbil
 
-![esbós](https://rawgit.com/juanmirp/noticias/master/doc/IMG_20170606_182721.jpg)
+![esbós](https://rawgit.com/juanmirp/noticias/master/doc/IMG_20170606_182711.jpg)
 
 
 # Requisits del cliente
